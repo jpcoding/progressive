@@ -1,0 +1,192 @@
+filename = aramco-snapshot-1199.f32 
+eb1 = 0.000823
+eb2 = 0.000082
+compression ratio = 1798.01 
+compression time = 1.180844
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 0.00082
+Max relative error = 0.01
+Max pw relative error = 1.7E+34
+PSNR = 54.415132, NRMSE= 0.001902144127
+normError = 1.077620, normErr_norm = 0.076615
+acEff=0.997110
+compressionRatio = 1798.010759
+decompression time = 0.512487 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
+using SZ_compress_float_1D_MDQ
+compression time = 0.613044
+compressed data file: error.dat.sz
+Using decompressDataSeries_float_1D
+Min=-0.00082299765199422836304, Max=0.00082299299538135528564, range=0.0016459906473755836487
+Max absolute error = 0.0000820000
+Max relative error = 0.049818
+Max pw relative error = 1.000000
+PSNR = 31.424566, NRMSE= 0.026839333256643331527
+normError = 0.304074, normErr_norm = 0.272647
+acEff=0.962135
+compressionRatio=41.538152
+decompression time = 0.386604 seconds.
+decompressed data file: error.dat.sz.out
+using SZ_compress_float_1D_MDQ
+compression time = 0.644776
+compressed data file: error.dat.sz
+Using decompressDataSeries_float_1D
+Min=-8.1999984104186296463E-05, Max=8.1999984104186296463E-05, range=0.00016399996820837259293
+Max absolute error = 0.0000330000
+Max relative error = 0.201220
+Max pw relative error = 1.000000
+PSNR = 19.623628, NRMSE= 0.10442839042027114715
+normError = 0.117881, normErr_norm = 0.359173
+acEff=0.933283
+compressionRatio=35.413283
+decompression time = 0.404581 seconds.
+decompressed data file: error.dat.sz.out
+compression ratio = 341.48 
+compression time = 1.327846
+compressed data file = error.dat.sz.tmp
+Min=-0.00082299765199422836304, Max=0.00082299299538135528564, range=0.0016459906473755836487
+Max absolute error = 8.2E-05
+Max relative error = 0.05
+Max pw relative error = 3E+31
+PSNR = 38.562903, NRMSE= 0.01179926256
+normError = 0.133679, normErr_norm = 0.123610
+acEff=0.992370
+compressionRatio = 341.484183
+decompression time = 0.461001 seconds.
+decompressed file = error.dat.sz3.out
+compression ratio = 240.23 
+compression time = 1.235279
+compressed data file = error.dat.sz.tmp
+Min=-8.1999984104186296463E-05, Max=8.1999751273542642593E-05, range=0.00016399973537772893906
+Max absolute error = 3.3E-05
+Max relative error = 0.2
+Max pw relative error = 7.3E+06
+PSNR = 25.845378, NRMSE= 0.05101889949
+normError = 0.057591, normErr_norm = 0.462788
+acEff=0.902742
+compressionRatio = 240.234854
+decompression time = 0.458167 seconds.
+decompressed file = error.dat.sz3.out
+compression ratio = 322.38 
+compression time = 1.261045
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 8.2E-05
+Max relative error = 0.001
+Max pw relative error = 1.9E+33
+PSNR = 72.555225, NRMSE= 0.0002356344397
+normError = 0.133494, normErr_norm = 0.009429
+acEff=0.999956
+compressionRatio = 322.380518
+decompression time = 0.455867 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
+compression ratio = 186.29 
+compression time = 1.318608
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 3.3E-05
+Max relative error = 0.0004
+Max pw relative error = 6.7E+32
+PSNR = 79.800416, NRMSE= 0.0001023244001
+normError = 0.057970, normErr_norm = 0.004093
+acEff=0.999992
+compressionRatio = 186.294160
+decompression time = 0.456983 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
+filename = aramco-snapshot-1199.f32 
+eb1 = 0.000082
+eb2 = 0.000008
+compression ratio = 322.38 
+compression time = 1.327976
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 8.2E-05
+Max relative error = 0.001
+Max pw relative error = 1.9E+33
+PSNR = 72.555225, NRMSE= 0.0002356344397
+normError = 0.133494, normErr_norm = 0.009429
+acEff=0.999956
+compressionRatio = 322.380518
+decompression time = 0.501197 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
+using SZ_compress_float_1D_MDQ
+compression time = 0.713470
+compressed data file: error.dat.sz
+Using decompressDataSeries_float_1D
+Min=-8.1999984104186296463E-05, Max=8.1999925896525382996E-05, range=0.00016399991000071167946
+Max absolute error = 0.0000080000
+Max relative error = 0.048781
+Max pw relative error = 1.000000
+PSNR = 31.521753, NRMSE= 0.026540698242070791951
+normError = 0.029960, normErr_norm = 0.219213
+acEff=0.975644
+compressionRatio=27.955987
+decompression time = 0.524302 seconds.
+decompressed data file: error.dat.sz.out
+using SZ_compress_float_1D_MDQ
+compression time = 0.833812
+compressed data file: error.dat.sz
+Using decompressDataSeries_float_1D
+Min=-7.9999981608125381172E-06, Max=7.9999990703072398901E-06, range=1.599999814061447978E-05
+Max absolute error = 0.0000010000
+Max relative error = 0.062500
+Max pw relative error = 1.000000
+PSNR = 28.945977, NRMSE= 0.035702705523123025311
+normError = 0.003932, normErr_norm = 0.129180
+acEff=0.991643
+compressionRatio=16.323816
+decompression time = 0.525749 seconds.
+decompressed data file: error.dat.sz.out
+compression ratio = 98.17 
+compression time = 1.401548
+compressed data file = error.dat.sz.tmp
+Min=-8.1999984104186296463E-05, Max=8.1999925896525382996E-05, range=0.00016399991000071167946
+Max absolute error = 8E-06
+Max relative error = 0.049
+Max pw relative error = 8.2E+05
+PSNR = 37.300943, NRMSE= 0.01364435026
+normError = 0.015402, normErr_norm = 0.115194
+acEff=0.993359
+compressionRatio = 98.170471
+decompression time = 0.526763 seconds.
+decompressed file = error.dat.sz3.out
+compression ratio = 47.73 
+compression time = 1.485898
+compressed data file = error.dat.sz.tmp
+Min=-7.9999954323284327984E-06, Max=7.9999972513178363442E-06, range=1.5999992683646269143E-05
+Max absolute error = 1E-06
+Max relative error = 0.063
+Max pw relative error = 1.1E+21
+PSNR = 33.194154, NRMSE= 0.02189234526
+normError = 0.002411, normErr_norm = 0.159525
+acEff=0.987661
+compressionRatio = 47.729637
+decompression time = 0.638300 seconds.
+decompressed file = error.dat.sz3.out
+compression ratio = 85.70 
+compression time = 1.437908
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 8E-06
+Max relative error = 9.7E-05
+Max pw relative error = 2.1E+32
+PSNR = 91.171228, NRMSE= 2.76336726E-05
+normError = 0.015655, normErr_norm = 0.001105
+acEff=0.999999
+compressionRatio = 85.702655
+decompression time = 0.531919 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
+compression ratio = 35.11 
+compression time = 1.557675
+compressed data file = /lcrc/project/ECP-EZ/jp/aramco/aramco-snapshot-1199.f32.sz.tmp
+Min=-0.050720945000648498535, Max=0.031587012112140655518, range=0.082307957112789154053
+Max absolute error = 1E-06
+Max relative error = 1.2E-05
+Max pw relative error = 2.2E+31
+PSNR = 108.041091, NRMSE= 3.962282727E-06
+normError = 0.002245, normErr_norm = 0.000158
+acEff=1.000000
+compressionRatio = 35.112019
+decompression time = 0.672518 seconds.
+decompressed file = aramco-snapshot-1199.f32.sz3.out
