@@ -1,0 +1,306 @@
+velocity_x.f32
+eb1 = 8228364.000000 
+eb2 = 82283.640000 
+eb3 = 822.836400 
+SZ3 on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.377806
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 2.930158 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 97.60 
+compression time = 4.337551
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+04
+Max relative error = 0.001
+Max pw relative error = 8.3E+05
+PSNR = 68.309329, NRMSE= 0.0003841789261
+normError = 366228371.376156, normErr_norm = 0.004903
+acEff=0.999988
+compressionRatio = 97.601855
+decompression time = 1.722229 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 6.05 
+compression time = 5.070138
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+02
+Max relative error = 1E-05
+Max pw relative error = 3.3E+03
+PSNR = 104.824035, NRMSE= 5.738498487E-06
+normError = 5470370.216691, normErr_norm = 0.000073
+acEff=1.000000
+compressionRatio = 6.054137
+decompression time = 3.911813 seconds.
+decompressed file = velocity_x.f32.sz3.out
+SZ3 sz3_e sz3_e on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.426507
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 2.917172 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 96.80 
+compression time = 4.333500
+compressed data file = velocity_x.f32.sz3.out.error1.sz.tmp
+Min=-8228339, Max=8228158, range=16456497
+Max absolute error = 8.2E+04
+Max relative error = 0.005
+Max pw relative error = 2.4E+05
+PSNR = 54.329808, NRMSE= 0.001920921366
+normError = 366228319.073406, normErr_norm = 0.020213
+acEff=0.999795
+compressionRatio = 96.796616
+decompression time = 1.731852 seconds.
+decompressed file = velocity_x.f32.sz3.out.error1.out
+compression ratio = 5.95 
+compression time = 4.990629
+compressed data file = velocity_x.f32.sz3.out.error2.sz.tmp
+Min=-82283.625, Max=82283.625, range=164567.25
+Max absolute error = 8.2E+02
+Max relative error = 0.005
+Max pw relative error = 9.5E+04
+PSNR = 50.843080, NRMSE= 0.002869762897
+normError = 5471348.393502, normErr_norm = 0.014938
+acEff=0.999888
+compressionRatio = 5.953500
+decompression time = 4.003497 seconds.
+decompressed file = velocity_x.f32.sz3.out.error2.out
+maximum error =  822.8363
+SZ3 sz3_e sz3_e on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.921380
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 3.005624 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 96.80 
+compression time = 4.127491
+compressed data file = velocity_x.f32.sz3.out.error1.sz.tmp
+compressionRatio = 96.796616
+decompression time = 1.725473 seconds.
+decompressed file = velocity_x.f32.sz3.out.error1.out
+using SZ_compress_float_1D_MDQ
+compression time = 2.078725
+compressed data file: velocity_x.f32.sz3.out.error2.sz
+Using decompressDataSeries_float_1D
+Min=-82283.625, Max=82283.625, range=164567.25
+Max absolute error = 822.8359375000
+Max relative error = 0.005000
+Max pw relative error = 1.000000
+PSNR = 50.791770, NRMSE= 0.0028867654862503241975
+normError = 5503764.690589, normErr_norm = 0.015026
+acEff=0.999887
+compressionRatio=5.054527
+decompression time = 2.621579 seconds.
+decompressed data file: velocity_x.f32.sz3.out.error2.sz.out
+maximum error =  822.83594
+velocity_x.f32
+eb1 = 8228364.000000 
+eb2 = 822836.400000 
+eb3 = 82283.640000 
+eb4 = 8228.364000 
+eb5 = 822.836400 
+SZ3 on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.575420
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 3.027105 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 1484.75 
+compression time = 3.916406
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+05
+Max relative error = 0.01
+Max pw relative error = 5E+06
+PSNR = 53.750383, NRMSE= 0.002053434461
+normError = 1957488834.747861, normErr_norm = 0.026252
+acEff=0.999658
+compressionRatio = 1484.750441
+decompression time = 1.572254 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 97.60 
+compression time = 4.336179
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+04
+Max relative error = 0.001
+Max pw relative error = 8.3E+05
+PSNR = 68.309329, NRMSE= 0.0003841789261
+normError = 366228371.376156, normErr_norm = 0.004903
+acEff=0.999988
+compressionRatio = 97.601855
+decompression time = 1.692634 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 15.28 
+compression time = 4.649326
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+03
+Max relative error = 0.0001
+Max pw relative error = 7.6E+04
+PSNR = 85.067971, NRMSE= 5.579579072E-05
+normError = 53188762.254608, normErr_norm = 0.000712
+acEff=1.000000
+compressionRatio = 15.275165
+decompression time = 2.835947 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 6.05 
+compression time = 5.094952
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+02
+Max relative error = 1E-05
+Max pw relative error = 3.3E+03
+PSNR = 104.824035, NRMSE= 5.738498487E-06
+normError = 5470370.216691, normErr_norm = 0.000073
+acEff=1.000000
+compressionRatio = 6.054137
+decompression time = 4.048975 seconds.
+decompressed file = velocity_x.f32.sz3.out
+SZ3 sz3_e sz3_e on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.734141
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 2.948605 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 1342.70 
+compression time = 3.732289
+compressed data file = velocity_x.f32.sz3.out.error1.sz.tmp
+Min=-8228339, Max=8228158, range=16456497
+Max absolute error = 8.2E+05
+Max relative error = 0.05
+Max pw relative error = 2.3E+06
+PSNR = 39.779919, NRMSE= 0.0102566146
+normError = 1955448458.631821, normErr_norm = 0.108962
+acEff=0.994149
+compressionRatio = 1342.697575
+decompression time = 1.612469 seconds.
+decompressed file = velocity_x.f32.sz3.out.error1.out
+compression ratio = 98.29 
+compression time = 4.128263
+compressed data file = velocity_x.f32.sz3.out.error2.sz.tmp
+Min=-822835.25, Max=822833.5, range=1645668.75
+Max absolute error = 8.2E+04
+Max relative error = 0.05
+Max pw relative error = 4.5E+06
+PSNR = 34.329897, NRMSE= 0.01920901772
+normError = 366228822.725735, normErr_norm = 0.191379
+acEff=0.982312
+compressionRatio = 98.293351
+decompression time = 1.738215 seconds.
+decompressed file = velocity_x.f32.sz3.out.error2.out
+compression ratio = 15.05 
+compression time = 4.718759
+compressed data file = velocity_x.f32.sz3.out.error3.sz.tmp
+Min=-82283.609375, Max=82283.625, range=164567.234375
+Max absolute error = 8.2E+03
+Max relative error = 0.05
+Max pw relative error = 1.9E+06
+PSNR = 31.008028, NRMSE= 0.02815779278
+normError = 53684253.784627, normErr_norm = 0.145444
+acEff=0.989371
+compressionRatio = 15.046529
+decompression time = 2.820055 seconds.
+decompressed file = velocity_x.f32.sz3.out.error3.out
+compression ratio = 8.34 
+compression time = 4.731112
+compressed data file = velocity_x.f32.sz3.out.error4.sz.tmp
+Min=-8228.36328125, Max=8228.36328125, range=16456.7265625
+Max absolute error = 8.2E+02
+Max relative error = 0.05
+Max pw relative error = 1.4E+06
+PSNR = 30.843272, NRMSE= 0.0286969929
+normError = 5471227.642922, normErr_norm = 0.101390
+acEff=0.994847
+compressionRatio = 8.339137
+decompression time = 3.210691 seconds.
+decompressed file = velocity_x.f32.sz3.out.error4.out
+maximum error =  822.8363
+SZ3 sz3_e sz3_e on velocity_x.f32
+compression ratio = 23370.66 
+compression time = 5.405974
+compressed data file = /home/pjiao/data/NYX512x512x512/velocity_x.f32.sz.tmp
+Min=-50416856, Max=31866786, range=82283642
+Max absolute error = 8.2E+06
+Max relative error = 0.1
+Max pw relative error = 1.7E+07
+PSNR = 34.414390, NRMSE= 0.01902306434
+normError = 18134221836.425030, normErr_norm = 0.251244
+acEff=0.970249
+compressionRatio = 23370.664809
+decompression time = 2.905215 seconds.
+decompressed file = velocity_x.f32.sz3.out
+compression ratio = 1342.70 
+compression time = 3.946408
+compressed data file = velocity_x.f32.sz3.out.error1.sz.tmp
+compressionRatio = 1342.697575
+decompression time = 1.596804 seconds.
+decompressed file = velocity_x.f32.sz3.out.error1.out
+compression ratio = 98.29 
+compression time = 4.224123
+compressed data file = velocity_x.f32.sz3.out.error2.sz.tmp
+compressionRatio = 98.293351
+decompression time = 1.677995 seconds.
+decompressed file = velocity_x.f32.sz3.out.error2.out
+compression ratio = 15.05 
+compression time = 4.734368
+compressed data file = velocity_x.f32.sz3.out.error3.sz.tmp
+compressionRatio = 15.046529
+decompression time = 2.740204 seconds.
+decompressed file = velocity_x.f32.sz3.out.error3.out
+using SZ_compress_float_1D_MDQ
+compression time = 2.084949
+compressed data file: velocity_x.f32.sz3.out.error4.sz3
+Using decompressDataSeries_float_1D
+Min=-8228.36328125, Max=8228.36328125, range=16456.7265625
+Max absolute error = 822.8364257812
+Max relative error = 0.050000
+Max pw relative error = 1.000000
+PSNR = 30.791873, NRMSE= 0.028867310678089345283
+normError = 5503699.592641, normErr_norm = 0.101515
+acEff=0.994845
+compressionRatio=9.103649
+decompression time = 2.065073 seconds.
+decompressed data file: velocity_x.f32.sz3.out.error4.sz3.out
+maximum error =  822.8363

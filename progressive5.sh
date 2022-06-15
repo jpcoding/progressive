@@ -17,8 +17,8 @@ echo "eb4 = $eb4 "  >> $filename.log
 echo "eb5 = $eb5 "  >> $filename.log 
 
 ## compressors 
-sz3=/home/jp/git/SZ3/install/bin/sz
-dq=/home/jp/git/sz2-dq/example/sz
+sz3=~/git/SZ3/install/bin/sz3
+dq=~/git/szdq/example/sz
 
 ## SZ on data three times 
 echo "SZ3 on $filename" >> $filename.log 
