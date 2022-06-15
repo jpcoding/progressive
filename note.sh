@@ -1,0 +1,1 @@
+PlotSliceImage -f -i pressure_2000_1008x1008x352 -3 352 1008 1008 -m DIFF -n ORI -s 782 -x pressure_2000_1008x1008x352-3E-5.sz3.out -o pressure_2000_1008x1008x352-szi-3E-5.diff.png
